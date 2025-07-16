@@ -1,0 +1,4 @@
+ _Direccion IP publica de mi maquina: 2601:702:0:1fd0:cdaa:e8dc:26bd:4f57
+ _Sitio: GitHub, Correo: contacto@inerrangestrategies.com, Usuario: PegasusFNX, Contrasena: GH*.....
+ _Repository name: inner-range-site
+

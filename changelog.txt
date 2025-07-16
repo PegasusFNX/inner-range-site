@@ -1,0 +1,30 @@
+
+```text
+Versión: v1text
+Versión: v1.0
+Fecha: 17-julio.0
+Fecha: 17-julio-2025
+Estado: Pro-2025
+Estado: Proyección y estilo consolidados
+Cambyección y estiloios:
+- Integración visual completa consolidados
+Cambios:
+- Integración visual completa de 5 hojas desde de 5 hojas desde Canva en formato Canva en formato PNG
+- Ajustes estéticos: bordes dorados, sombra institucional PNG
+- Ajustes est, transición al hover
+- Corrección de nombres y extensiónéticos: bordes dorados, sombra institucional, transición al hover
+- Corrección de para visualización bajo entorno Linux nombres y extensión para visualización bajo entorno Linux
+- Verificación final en navegador local
+- Verificación final desde index.html en navegador local desde index.html
+- CSS refinado para escalar visual sin perder sobriedad
+
+
+
+Versión: v1.1
+Fecha: 18-julio-2025
+Cambios:
+- Inserción de pie de página institucional con firma y versión
+- Integración del emblema visual institucional (libro abierto) en posición fija
+- Estilización sobria del símbolo mediante CSS
+- Consolidación visual completa del sitio institucional hoja por hoja
+
